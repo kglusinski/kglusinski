@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="PHP" width="26px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />][website]
-[<img align="left" alt="GO" width="26px" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white />][website]
+[<img align="left" alt="GO" width="26px" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />][website]
 [<img align="left" alt="Kotlin" width="26px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />][website]
 [<img align="left" alt="Swift" width="26px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
